@@ -3,7 +3,7 @@
 **Cinematic zoom + audio‑synced slideshows** – turn any set of images and narrated audio into a polished documentary video with professional Ken Burns effect, crossfades, and color grading.
 
 ![Example output](output_preview.gif)  
-*(Replace with an actual GIF or link to your video)*
+
 
 ## ✨ Features
 - **Smart aspect‑ratio cropping** – automatically forces all images to 16:9 without stretching.
